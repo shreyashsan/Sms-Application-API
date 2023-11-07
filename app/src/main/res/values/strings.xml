@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">shreyassms</string>
+    <string name="sms_application">SMS APPLICATION</string>
+    <string name="todo">TODO</string>
+    <string name="enter_the_message">Enter the Message</string>
+    <string name="enter_the_number">Enter the Number</string>
+</resources>
